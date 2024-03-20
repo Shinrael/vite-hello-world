@@ -17,5 +17,10 @@ export default {
 </template>
 
 <style scoped>
-
+  h1{
+    color:blue;
+  }
+  p{
+    font-weight: bold;
+  }
 </style>
